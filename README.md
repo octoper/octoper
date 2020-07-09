@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hey there 👋
 
 My name is Vaggelis and I'm a full-stack web developer, I live in Heraklion, Greece and I'm also a student at
 Computer Science Department of University of Crete.
