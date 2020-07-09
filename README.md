@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**octoper/octoper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Vaggelis and I'm a full-stack web developer, I live in Heraklion, Greece and I'm also a student at
+Computer Science Department of University of Crete.
+
+My speciality on the backend is Laravel, on the frontend is VueJS and nowdays I use TailwindCSS for styling.
+
+I'm passionate about PWA's, Web components and also I'm a website performance freak I optimize the speed of a website to be as fast as possible.
+
+I'm passionate about PWA's, Javascript, Rust and Python.
+Oh! and I forgot to say that I'm performance freak, I try to make every site as performant as possible (I'm getting very angry when PageSpeeds show's score < 85)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on SquareDash
+- 🌱 I’m currently learning Livewire
+- 💬 Ask me about anything you want!
+- 📫 How to reach me:
+  - **Email**: [me@octoper.me](mailto:me@octoper.me)
+  - **Website**: [octoper.me](https://octoper.me)
