@@ -1,3 +1,5 @@
+[![Visits Badge](https://badges.pufler.dev/visits/octoper/octoper)](https://badges.pufler.dev)
+
 # Hey there 👋
 
 My name is Vaggelis and I'm a full-stack web developer, I live in Heraklion, Greece and I'm also a student at
