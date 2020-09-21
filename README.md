@@ -11,7 +11,7 @@ I'm passionate about PWA's, Web components, Javascript, Rust and Python.
 
 Oh! and I forgot to say that I'm performance freak, I try to make every site as performant as possible (I'm getting very angry when PageSpeeds show's score < 85)
 
-<a href="https://github.com/octoper"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=octoper&show_icons=true" align="right" height="150" /></a>
+<a href="https://github.com/octoper"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=octoper&show_icons=true&count_private=true" align="right" height="150" /></a>
 
 Here are some ideas to get you started:
 
