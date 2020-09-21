@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
   - **Email**: [me@octoper.me](mailto:me@octoper.me)
   - **Website**: [octoper.me](https://octoper.me)
+  - **Twitter**: [@itsotoper](https://twitter.com/itsoctoper)
