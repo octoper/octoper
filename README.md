@@ -1,4 +1,5 @@
 [![Visits Badge](https://badges.pufler.dev/visits/octoper/octoper)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/octoper)](https://badges.pufler.dev)
 
 # Hey there 👋
 
