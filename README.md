@@ -23,7 +23,3 @@ Here are some ideas to get you started:
   - **Email**: [me@octoper.me](mailto:me@octoper.me)
   - **Website**: [octoper.me](https://octoper.me)
   - **Twitter**: [@itsotoper](https://twitter.com/itsoctoper)
-
-
-
-<script src="https://cdn.usefathom.com/script.js" data-site="TAPNNHZT" defer></script>
