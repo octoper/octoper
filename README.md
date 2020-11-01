@@ -13,8 +13,6 @@ Oh! and I forgot to say that I'm performance freak, I try to make every site as 
 
 Here are some ideas to get you started:
 
-- 👨‍💻 I’m currently working on [SquareDash](https://squaredash.xyz)
-- 📖 I’m currently learning [InertiaJS](https://inertiajs.com/)!
 - 💬 Ask me about anything you want!
 - 📫 How to reach me:
   - **Email**: [me@octoper.me](mailto:me@octoper.me)
