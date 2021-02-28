@@ -5,7 +5,7 @@ Computer Science Department of University of Crete.
 
 My speciality nowdays on Laravel, Livewire, Alpine JS and TailwindCSS (the famous [TALL stack](https://tallstack.dev/)).
 
-I'm passionate about PWA's, Web components, Javascript, Rust and Golang.
+I'm passionate about PWA's, Web components, Javascript, Rust and Go.
 
 <a href="https://github.com/octoper"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=octoper&show_icons=true&count_private=true" align="right" height="150" /></a>
 
