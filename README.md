@@ -3,9 +3,18 @@
 My name is Vaggelis and I'm a full-stack web developer, I live in Heraklion, Greece and I'm also a student at
 Computer Science Department of University of Crete.
 
-My speciality nowdays on Laravel, Livewire, Alpine JS and TailwindCSS (the famous [TALL stack](https://tallstack.dev/)).
+I have been playing with a lot of languages and frameworks lately some of them are:
 
-I'm passionate about PWA's, Web components, Javascript, Rust and Go.
+- PHP
+- Typescript
+- Golang
+- [Laravel (mostly with InertiaJS & React)](https://laravel.com/)
+- [ReactJS (currently learning 👨‍🏫)](https://reactjs.org/)
+- [NextJS Framework (currently playing 🧪)](https://nextjs.org/)
+- [VueJS](https://vuejs.org/)
+- [Remix](https://remix.run/)
+- [Qwik Framework](https://qwik.builder.io/)
+
 
 <a href="https://github.com/octoper"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=octoper&show_icons=true&count_private=true" align="right" height="150" /></a>
 
