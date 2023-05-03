@@ -5,16 +5,13 @@ Computer Science Department of University of Crete.
 
 I have been playing with a lot of languages and frameworks lately some of them are:
 
-- PHP
 - Typescript
-- Golang
-- [Laravel (mostly with InertiaJS & React)](https://laravel.com/)
+- [Qwik Framework](https://qwik.builder.io/)
 - [ReactJS (currently learning 👨‍🏫)](https://reactjs.org/)
 - [NextJS Framework (currently playing 🧪)](https://nextjs.org/)
 - [VueJS](https://vuejs.org/)
-- [Remix](https://remix.run/)
-- [Qwik Framework](https://qwik.builder.io/)
-
+- PHP
+- [Laravel (mostly with InertiaJS & React)](https://laravel.com/)
 
 <a href="https://github.com/octoper"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=octoper&show_icons=true&count_private=true" align="right" height="150" /></a>
 
