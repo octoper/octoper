@@ -7,9 +7,9 @@ I have been playing with a lot of languages and frameworks lately some of them a
 
 - Typescript
 - [Qwik Framework](https://qwik.builder.io/)
-- [ReactJS (currently learning 👨‍🏫)](https://reactjs.org/)
-- [NextJS Framework (currently playing 🧪)](https://nextjs.org/)
 - [VueJS](https://vuejs.org/)
+- [ReactJS](https://reactjs.org/)
+- [NextJS Framework](https://nextjs.org/)
 - PHP
 - [Laravel (mostly with InertiaJS & Vue / React)](https://laravel.com/)
 
