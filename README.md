@@ -11,7 +11,7 @@ I have been playing with a lot of languages and frameworks lately some of them a
 - [NextJS Framework (currently playing 🧪)](https://nextjs.org/)
 - [VueJS](https://vuejs.org/)
 - PHP
-- [Laravel (mostly with InertiaJS & React)](https://laravel.com/)
+- [Laravel (mostly with InertiaJS & Vue / React)](https://laravel.com/)
 
 <a href="https://github.com/octoper"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=octoper&show_icons=true&count_private=true" align="right" height="150" /></a>
 
