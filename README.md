@@ -11,3 +11,8 @@ I have been playing with a lot of languages and frameworks lately some of them a
 - [NextJS Framework](https://nextjs.org/)
 - PHP
 - [Laravel (mostly with InertiaJS & Vue / React)](https://laravel.com/)
+
+- 📫 How to reach me:
+  - **Email**: [me@octoper.me](mailto:me@octoper.me)
+  - **Website**: [octoper.me](https://octoper.me)
+  - **Twitter**: [@itsotoper](https://twitter.com/itsoctoper)
